@@ -1,11 +1,10 @@
 ---
 name: problem-deepening
-description: A structured approach to deeply understanding problems before attempting
-  solutions—spending "55 minutes on the problem and 5 minutes on solutions.
+description: A structured approach to deeply understanding problems before attempting solutions—spending "55 minutes on the problem and 5 minutes on solutions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - problem-deepening
 - transformation
